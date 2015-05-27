@@ -74,7 +74,7 @@ AUTHOR: Vivek Narayanan
 
 CONTRIBUTORS: 
 
-Flávio Juvenal
+Flavio Juvenal
 
 Sam Zaydel  
 
